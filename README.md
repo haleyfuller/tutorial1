@@ -1,4 +1,7 @@
 # tutorial1
+For Patterns 2 Homework...
+I added another ball that moves the ball forward fast. I also added text to identify the button objects.
+
 
 For Patterns 1 Homework...
 I wasn't able to get the added behaviors to work. I have the code written, but it isnt communicating correctly with the other classes. 
